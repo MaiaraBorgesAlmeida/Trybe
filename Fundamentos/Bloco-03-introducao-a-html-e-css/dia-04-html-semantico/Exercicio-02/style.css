@@ -1,0 +1,48 @@
+
+body {
+background-color:rgba(0, 183, 255, 0.788);
+}
+
+table, th, td {
+    border: 2px solid blue;
+}
+
+h1, h2, h3 {
+    background-color: blue;
+    color: white
+}
+
+h1 {
+    text-align: center;
+}
+
+aside {
+    background-color: white;;
+}
+
+p {
+    font-family:sans-serif;
+}
+
+li  {
+    color: white;
+}
+
+nav {
+    color: white;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+    background-color: white;
+    margin: auto;
+
+    }
