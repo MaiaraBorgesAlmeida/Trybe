@@ -24,7 +24,7 @@ O programa conta com mais de 1.500 horas de aulas online e aborda introdução a
 - [X] 3-1: _HTML & CSS - Estruturas de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML semântico_
+- [X] 3-4: _HTML semântico_
 - [X] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-018-a-project-lessons-learned/pull/51)_
 
 ##### Bloco 4: Introdução - JavaScript
