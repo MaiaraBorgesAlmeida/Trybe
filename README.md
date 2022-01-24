@@ -4,22 +4,24 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
-O programa conta com mais de 1.500 horas de aulas online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abordar a introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 01: Unix & Bash
 
-- [X] 1-3: _Unix & Shell- Part 1_
-- [X] 1-4: _Unix & Shell- Part 2_
+- [X] 1-3: _Fundamentos do Desenvolvimento Web_
+- [X] 1-3: _Introdução a Unix & Shell_
+- [X] 1-3: _Unix & Bash- Part 1_
+- [X] 1-4: _Unix & Bash- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Bloco 02: Git & GitHub
 
-- [X] 2-1: _O que é e para que serve?_
-- [X] 2-2: _Entendendo os comandos_
+- [X] 2-1: _Git & GitHub: O que é e para que serve?_
+- [X] 2-2: _Git & GitHub: Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: Introdução - HTML & CSS
+##### Bloco 03: Introdução à HTML & CSS
 
 - [X] 3-1: _HTML & CSS - Estruturas de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -27,15 +29,15 @@ O programa conta com mais de 1.500 horas de aulas online e aborda introdução a
 - [X] 3-4: _HTML semântico_
 - [X] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-018-a-project-lessons-learned/pull/51)_
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
-- [X] 4-1: _JavaScript - Primeiros passos_
+- [X] 4-1: _JavaScript - Introdução_
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
 - [X] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-018-a-project-playground-functions/pull/107)_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
@@ -75,7 +77,7 @@ O programa conta com mais de 1.500 horas de aulas online e aborda introdução a
 
 - [ ] 9-1: _JavaScript Assíncrono e Callbacks_
 - [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [X] 9-3: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-018-a-project-shopping-cart/pull/70)_
 
 ##### Bloco 10: Jest
 
