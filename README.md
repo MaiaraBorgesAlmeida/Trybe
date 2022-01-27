@@ -31,7 +31,7 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
-- [X] 4-1: _JavaScript - Introdução_
+- [X] 4-1: _Introdução - JavaScript_
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
@@ -46,45 +46,40 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 - [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-018-a-project-pixels-art/pull/96/files)_
 - [X] 5-6: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-018-a-project-todo-list/pull/70)_
 - [X] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/tryber/sd-018-a-project-color-guess/pull/25)_
-- [ ] 5-8: _[Projeto - Meme Generator]()
-- [ ] 5-9: _[Projeto - Carta Misteriosa]()_
+- [ ] 5-7: _[Projeto - Meme Generator]()
+- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avaçado
+##### Bloco 06: HTML & CSS: Forms, Flexbox e Responsivo
 
 - [ ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - página inicial do Facebook]()_
+- [ ] 6-6: _[Projeto - Trybewarts](https://github.com/tryber/sd-018-a-project-trybewarts/pull/102)_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Bloco 07: JavaScript ES6 & Testes Unitários
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [X] 7-2: _JavaScript ES6 - Objects_
-- [X] 7-3: _Testes Unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-018-a-project-js-unit-tests/pull/91#)_
+- [X] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
+- [X] 7-3: _Primeiros passos em Jest_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-018-a-project-js-unit-tests/pull/91#)_
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 08: Higher Order Functions do JavaScript ES6
 
+- [ ] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
 - [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [X] 8-6: _[Projeto - Zoo functions](https://github.com/tryber/sd-018-a-project-zoo-functions/pull/57)_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 09: JavaScript e Testes Assíncronos
 
 - [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [X] 9-3: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-018-a-project-shopping-cart/pull/70)_
-
-##### Bloco 10: Jest
-
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
+- [ ] 9-3: _Jest - Testes Assíncronos_
+- [X] 9-4: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-018-a-project-shopping-cart/pull/70)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -94,53 +89,53 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 - [X] 10-2: _Componentes React_
 - [X] 10-3: _[Projeto - Solar System](https://github.com/tryber/sd-018-a-project-solar-system/pull/76)_
 
-##### Bloco 12: React
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [ ] 11-1: _Componentes com estado e eventos_
+- [ ] 11-2: _Formulários no React_
+- [ ] 11-3: _[Projeto - Tryunfo]()_
 
-##### Bloco 13: React
+##### Bloco 12: Ciclo de vida de Componentes e React Router
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [ ] 12-1: _Melhorando o reuso de componentes: props.children e PropTypes_
+- [ ] 12-2: _Ciclo de vida de componentes em React_
+- [ ] 12-3: _React Router_
+- [ ] 12-4: _[Projeto - Movie Cards Library CRUD]()_
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 13: Metodologias Ágeis
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [ ] 13-1: _Metodologias Ágeis_
+- [ ] 13-2: _[Projeto - Frontend Online Store]()_
 
-##### Bloco 15: Testes em React
+##### Bloco 14: Testes automatizados com React Testing Library
 
 - [ ] 15-1: _Testando React com a React Testing Library_
 - [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
 - [ ] 15-3: _[Projeto - Testes em React]()_
 
-##### Bloco 16: Introdução ao Redux
+##### Bloco 15: Grenciamento de estado com Redux
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes Síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [ ] 15-1: _Introdução ao Redux - O estado global da aplicação_
+- [ ] 15-2: _React com Redux_
+- [ ] 15-3: _React com Redux - Prática_
+- [ ] 15-4: _React com Redux - Actions Assíncronos_
+- [ ] 15-5: _Testes em React-Redux_
+- [ ] 15-6: _[Projeto - Trybe Wallet]()_
 
-##### Bloco 17: Projeto React
+##### Bloco 16: Projeto Jogo de Trivia
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
 
-##### Bloco 18: React & Context API
+##### Bloco 17: Context API e React Hooks
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [ ] 17-1: _Context API do React_
+- [ ] 17-2: _React Hooks - useState e useContext_
+- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Bloco 19: Projeto Final de Front-end
+##### Bloco 18: Projeto App de Receitas
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [ ] 18-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
