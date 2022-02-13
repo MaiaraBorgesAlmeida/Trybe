@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import './Pokemon.css';
 
 class Pokemon extends React.Component {
   render() {
@@ -33,7 +34,7 @@ Pokemon.propTypes = {
 
 export default Pokemon;
 
-// Fizemos um map no nosso array de pokemons que vai renderizar o componente Pokemon para cada item do array.
+// Fiz um map no nosso array de pokemons que vai renderizar o componente Pokemon para cada item do array.
 
 // Então, recebemos a props "pokemon" que é um objeto do array de pokemons 
 // Nesses objetos temos informações como name, type e etc, então

@@ -39,14 +39,14 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
-- [X] 5-1: _JavaScript - DOM e seletores_
-- [X] 5-2: _JavaScript - Trabalhando com elementos_
-- [X] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
+- [] 5-1: _JavaScript - DOM e seletores_
+- [] 5-2: _JavaScript - Trabalhando com elementos_
+- [] 5-3: _JavaScript - Eventos_
+- [] 5-4: _JavaScript - Web Storage_
 - [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-018-a-project-pixels-art/pull/96/files)_
 - [X] 5-6: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-018-a-project-todo-list/pull/70)_
 - [X] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/tryber/sd-018-a-project-color-guess/pull/25)_
-- [ ] 5-7: _[Projeto - Meme Generator]()
+- [ ] 5-7: _[Projeto - Meme Generator]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 06: HTML & CSS: Forms, Flexbox e Responsivo
@@ -56,13 +56,13 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Trybewarts](https://github.com/tryber/sd-018-a-project-trybewarts/pull/102)_
+- [X] 6-6: _[Projeto - Trybewarts](https://github.com/tryber/sd-018-a-project-trybewarts/pull/102)_
 
 ##### Bloco 07: JavaScript ES6 & Testes Unitários
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
-- [X] 7-3: _Primeiros passos em Jest_
+- [] 7-3: _Primeiros passos em Jest_
 - [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-018-a-project-js-unit-tests/pull/91#)_
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
@@ -91,20 +91,20 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11-1: _Componentes com estado e eventos_
-- [ ] 11-2: _Formulários no React_
-- [ ] 11-3: _[Projeto - Tryunfo]()_
+- [X] 11-1: _Componentes com estado e eventos_
+- [X] 11-2: _Formulários no React_
+- [X] 11-3: _[Projeto - Tryunfo](https://github.com/tryber/sd-018-a-project-tryunfo/pull/38)_
 
 ##### Bloco 12: Ciclo de vida de Componentes e React Router
 
 - [ ] 12-1: _Melhorando o reuso de componentes: props.children e PropTypes_
 - [ ] 12-2: _Ciclo de vida de componentes em React_
 - [ ] 12-3: _React Router_
-- [ ] 12-4: _[Projeto - Movie Cards Library CRUD]()_
+- [X] 12-4: _[Projeto - TrybeTunes](https://github.com/tryber/sd-018-a-project-trybetunes/pull/51)_
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13-1: _Metodologias Ágeis_
+- [X] 13-1: _Metodologias Ágeis_
 - [ ] 13-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 14: Testes automatizados com React Testing Library

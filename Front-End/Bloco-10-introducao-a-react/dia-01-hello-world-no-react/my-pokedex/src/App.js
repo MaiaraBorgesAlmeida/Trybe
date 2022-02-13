@@ -18,7 +18,7 @@ export default App;
 
 // No arquivo App.js, estamos renderizando o componente da Pokedex.
 
-// Criamos a prop "pokemons", e nela chamamos o nosso json "pokemons",
+// Cria a prop "pokemons", e nela chamamos o nosso json "pokemons",
 
 // pokemons={} é a nossa prop e o valor dentro das {} é o nosso json, 
 // ou seja nomeDaProps={valorDaProps}, o nome da props é o que foi passado dentro do componente Pokedex.
