@@ -6,22 +6,22 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abordar a introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web 👩‍💻
 
-##### Bloco 01: Unix & Bash
+##### Bloco 01: Unix & Bash :heavy_check_mark:
 
 - [X] 1-3: _Fundamentos do Desenvolvimento Web_
 - [X] 1-3: _Introdução a Unix & Shell_
 - [X] 1-3: _Unix & Bash- Part 1_
 - [X] 1-4: _Unix & Bash- Part 2_
 
-##### Bloco 02: Git & GitHub
+##### Bloco 02: Git & GitHub :heavy_check_mark:
 
 - [X] 2-1: _Git & GitHub: O que é e para que serve?_
 - [X] 2-2: _Git & GitHub: Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 03: Introdução à HTML & CSS
+##### Bloco 03: Introdução à HTML & CSS :heavy_check_mark:
 
 - [X] 3-1: _HTML & CSS - Estruturas de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -29,7 +29,7 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 - [X] 3-4: _HTML semântico_
 - [X] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-018-a-project-lessons-learned/pull/51)_
 
-##### Bloco 04: Introdução à JavaScript e Lógica de Programação
+##### Bloco 04: Introdução à JavaScript e Lógica de Programação :heavy_check_mark:
 
 - [X] 4-1: _Introdução - JavaScript_
 - [X] 4-2: _JavaScript - Array e loop For_
@@ -83,13 +83,13 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 10: Introdução à React
+##### Bloco 10: Introdução à React :heavy_check_mark:
 
 - [X] 10-1: _'Hello, world!' no React!_
 - [X] 10-2: _Componentes React_
 - [X] 10-3: _[Projeto - Solar System](https://github.com/tryber/sd-018-a-project-solar-system/pull/76)_
 
-##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React :heavy_check_mark:
 
 - [X] 11-1: _Componentes com estado e eventos_
 - [X] 11-2: _Formulários no React_
@@ -115,7 +115,7 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 15: Grenciamento de estado com Redux
 
-- [ ] 15-1: _Introdução ao Redux - O estado global da aplicação_
+- [X] 15-1: _Introdução ao Redux - O estado global da aplicação_ 
 - [ ] 15-2: _React com Redux_
 - [ ] 15-3: _React com Redux - Prática_
 - [ ] 15-4: _React com Redux - Actions Assíncronos_
