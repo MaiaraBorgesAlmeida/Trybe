@@ -39,10 +39,10 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
-- [] 5-1: _JavaScript - DOM e seletores_
-- [] 5-2: _JavaScript - Trabalhando com elementos_
-- [] 5-3: _JavaScript - Eventos_
-- [] 5-4: _JavaScript - Web Storage_
+- [ ] 5-1: _JavaScript - DOM e seletores_
+- [ ] 5-2: _JavaScript - Trabalhando com elementos_
+- [ ] 5-3: _JavaScript - Eventos_
+- [ ] 5-4: _JavaScript - Web Storage_
 - [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-018-a-project-pixels-art/pull/96/files)_
 - [X] 5-6: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-018-a-project-todo-list/pull/70)_
 - [X] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/tryber/sd-018-a-project-color-guess/pull/25)_
@@ -62,7 +62,7 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
-- [] 7-3: _Primeiros passos em Jest_
+- [ ] 7-3: _Primeiros passos em Jest_
 - [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-018-a-project-js-unit-tests/pull/91#)_
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6

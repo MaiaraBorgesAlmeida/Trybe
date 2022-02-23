@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Exercício 01: Introdução ao Redux</title>
+  <script src="https://unpkg.com/redux@latest/dist/redux.min.js"></script>
+  <style>
+    body {
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    #container {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    button {
+      height: 50px;
+      width: 200px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="container">
+    <p>Color: <span id="value">white</span></p>
+    <button id="previous">Previous color</button>
+    <button id="next">Next color</button>
+    <!-- 6. Crie um botão com o texto Random color. -->
+    <button id="random-color">Random color</button>
+  </div>
+
+  <script>
+    const INICIAL_STATE = {
+      colors: ['white', 'black', 'red', 'green', 'blue', 'yellow'],
+      index: 0,
+    };
+
+    // 6. Faça com que essa cor seja mostrada ao ser criada, alterando o estado index para a posição dela. Para facilitar, segue uma função que gera cores aleatórias:
+    function criarCor() {
+      const oneChar = ['1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'];
+      let cor = '#';
+      const aleatorio = () => Math.floor(Math.random() * oneChar.length);
+      for (let i = 0; i < 6; i += 1) {
+        cor += oneChar[aleatorio()];
+      }
+      return cor;
+    }
+
+    // 2. Crie um reducer, implementando um switch retornando apenas o estado inicial como default. Não se esqueça de colocar o reducer como parâmetro para o createStore, feito na etapa anterior.
+    const reducer = (state = INICIAL_STATE, action) => {
+      switch (action.type) {
+        case 'NEXT_COLOR': // 3. Incremente o switch criado no exercício anterior com a action NEXT_COLOR. Essas actions devem alterar o valor index guardado no ESTADO_INICIAL. As posições devem iniciar em 0 e não podem exceder a numeração do último item do array.
+          return {
+            ...state,
+            index: state.index === state.colors.length - 1 ? 0 : state.index + 1,
+          }
+        case 'PREVIOUS_COLOR': // 3. Incremente o switch criado no exercício anterior com a action PREVIOUS_COLOR. Essas actions devem alterar o valor index guardado no ESTADO_INICIAL. As posições devem iniciar em 0 e não podem exceder a numeração do último item do array.
+          return {
+            ...state,
+            index: state.index === 0 ? state.colors.length - 1 : state.index - 1,
+          }
+        case 'RANDOM_COLOR': // 6. Crie uma action no reducer adicionando uma cor aleatória ao array colors guardado em nosso estado inicial.
+          return {
+            ...state,
+            colors: [...state.colors, criarCor()],
+            index: state.colors.length,
+          }
+        default:
+          return state;
+      }
+    } // As cores criadas randomicamente devem ser armazenadas no array e com os botões de Next color e Previous color, poderemos trafegar entre as cores padrões e randômicas. Utilize o spread operator para adicionar cada cor randômica.
+
+    // 1. Crie uma store para a nossa aplicação.
+    const store = Redux.createStore(reducer);
+
+    // 4. Crie eventListener para o botão Previous color e realize um dispatch com o respectivo action.type.
+    const prevColor = document.getElementById('previous');
+    prevColor.addEventListener('click', () => {
+      store.dispatch({ type: 'PREVIOUS_COLOR' });
+    });
+
+    // 4. Crie eventListener para o botão Next color, e realize um dispatch com o respectivo action.type.
+    const nextColor = document.getElementById('next');
+    nextColor.addEventListener('click', () => {
+      store.dispatch({ type: 'NEXT_COLOR' });
+    });
+
+    // 6. Crie eventListener para o botão Random color e realize um dispatch com o respectivo action.type.
+    const randomColor = document.getElementById('random-color');
+    randomColor.addEventListener('click', () => {
+      store.dispatch({ type: 'RANDOM_COLOR' })
+    });
+
+    // 5. Faça o subscribe da store, alterando o innerHTML da tag com id value para a cor atual e o style do elemento com id container.
+    store.subscribe(() => {
+      const { colors, index } = store.getState();
+      document.getElementById('value').innerHTML = colors[index];
+      document.getElementById('container').style.backgroundColor = colors[index];
+    });
+  </script>
+</body>
+
+</html>
