@@ -1,4 +1,4 @@
-Bloco 15: exercise-react-with-redux-intro - [Exercícios](https://github.com/MaiaraBorgesAlmeida/exercise-react-with-redux-intro)
+## Bloco 15: exercise-react-with-redux-intro
 
 Esse é um projeto para o conteúdo do Bloco 15, sobre `Redux com react`.
 
@@ -54,7 +54,7 @@ Para cada PR realize esse processo.
 
 Dica: Use o [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension#11-basic-store) para ver o estado da sua aplicação em seu navegador.
 
-#### Exercício 1
+#### [Exercício 1](https://github.com/MaiaraBorgesAlmeida/exercise-react-with-redux-intro/tree/exercise-one)
 
 - Nesse exercício temos três botões de nomes Red, Yellow e Green. Esses botões devem ao serem clicados, passar um estado para o `Redux` com seus nomes.
 
@@ -66,7 +66,7 @@ Dica: Use o [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extens
 
 ---
 
-#### Exercício 2
+#### [Exercício 2](https://github.com/MaiaraBorgesAlmeida/exercise-react-with-redux-intro/tree/exercise-two)
 
 - Nesse exercício temos três carros com as cores Red, Blue e Yellow. Cada um deles apresenta um botão que ao ser clicado passa um estado para o `Redux` com um booleano.
 
@@ -78,7 +78,7 @@ Dica: Use o [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extens
 
 ---
 
-#### Exercício 3
+#### [Exercício 3](https://github.com/MaiaraBorgesAlmeida/exercise-react-with-redux-intro/tree/exercise-three)
 
 > Obs.: Enquanto os reducers não forem criados, a aplicação exibirá um erro no navegador.
 
