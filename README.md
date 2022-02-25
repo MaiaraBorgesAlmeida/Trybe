@@ -39,10 +39,10 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 5.1: _JavaScript - DOM e seletores_
-- [ ] 5.2: _JavaScript - Trabalhando com elementos_
-- [ ] 5.3: _JavaScript - Eventos_
-- [ ] 5.4: _JavaScript - Web Storage_
+- [ ] 5.1: JavaScript - DOM e seletores
+- [ ] 5.2: JavaScript - Trabalhando com elementos
+- [ ] 5.3: JavaScript - Eventos
+- [ ] 5.4: JavaScript - Web Storage
 - [X] 5.5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-018-a-project-pixels-art/pull/96/files)_
 - [X] 5.6: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-018-a-project-todo-list/pull/70)_
 - [X] 5.7: _[Projeto - Adivinhe a Cor](https://github.com/tryber/sd-018-a-project-color-guess/pull/25)_
@@ -51,34 +51,34 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 06: HTML & CSS: Forms, Flexbox e Responsivo
 
-- [ ] 6.1: _HTML & CSS - Forms_
-- [ ] 6.2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6.3: _CSS Flexbox - Part 1_
-- [ ] 6.4: _CSS Flexbox - Part 2_
-- [ ] 6.5: _CSS Responsivo - Mobile First_
+- [ ] 6.1: HTML & CSS - Forms
+- [ ] 6.2: Bibliotecas JavaScript e Frameworks CSS
+- [ ] 6.3: CSS Flexbox - Part 1
+- [ ] 6.4: CSS Flexbox - Part 2
+- [ ] 6.5: CSS Responsivo - Mobile First
 - [X] 6.6: _[Projeto - Trybewarts](https://github.com/tryber/sd-018-a-project-trybewarts/pull/102)_
 
 ##### Bloco 07: JavaScript ES6 & Testes Unitários
 
-- [X] 7.1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [X] 7.2: _JavaScript ES6 - Fluxo de exceção e Objetos_
-- [ ] 7.3: _Primeiros passos em Jest_
+- [X] 7.1: JavaScript ES6 - let, const, arrow functions e template literals
+- [X] 7.2: JavaScript ES6 - Fluxo de exceção e Objetos
+- [ ] 7.3: Primeiros passos em Jest
 - [X] 7.4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-018-a-project-js-unit-tests/pull/91#)_
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
 
-- [ ] 8.1: _JavaScript ES6 - Introdução a Higher Order Functions_
-- [ ] 8.1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8.2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8.3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8.4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] 8.1: JavaScript ES6 - Introdução a Higher Order Functions
+- [ ] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 8.2: JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 8.3: JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 8.4: JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [X] 8.6: _[Projeto - Zoo functions](https://github.com/tryber/sd-018-a-project-zoo-functions/pull/57)_
 
 ##### Bloco 09: JavaScript e Testes Assíncronos
 
-- [ ] 9.1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9.2: _JavaScript Assíncrono - Fetch API e async/await_
-- [ ] 9.3: _Jest - Testes Assíncronos_
+- [ ] 9.1: JavaScript Assíncrono e Callbacks
+- [ ] 9.2: JavaScript Assíncrono - Fetch API e async/await
+- [ ] 9.3: Jest - Testes Assíncronos
 - [X] 9.4: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-018-a-project-shopping-cart/pull/70)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
@@ -97,9 +97,9 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 12: Ciclo de vida de Componentes e React Router
 
-- [ ] 12.1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 12.2: _Ciclo de vida de componentes em React_
-- [ ] 12.3: _React Router_
+- [ ] 12.1: Melhorando o reuso de componentes: props.children e PropTypes
+- [ ] 12.2: Ciclo de vida de componentes em React
+- [ ] 12.3: React Router
 - [X] 12.4: _[Projeto - TrybeTunes](https://github.com/tryber/sd-018-a-project-trybetunes/pull/51)_
 
 ##### Bloco 13: Metodologias Ágeis :heavy_check_mark:
@@ -116,10 +116,10 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 ##### Bloco 15: Grenciamento de estado com Redux
 
 - [X] 15.1: Introdução ao Redux - O estado global da aplicação
-- [X] 15.2: _React com Redux_
-- [ ] 15.3: _React com Redux - Prática_
-- [ ] 15.4: _React com Redux - Actions Assíncronos_
-- [ ] 15.5: _Testes em React-Redux_
+- [X] 15.2: React com Redux
+- [ ] 15.3: React com Redux - Prática
+- [ ] 15.4: React com Redux - Actions Assíncronos
+- [ ] 15.5: Testes em React-Redux
 - [ ] 15.6: _[Projeto - Trybe Wallet]()_
 
 ##### Bloco 16: Projeto Jogo de Trivia
@@ -128,9 +128,9 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 ##### Bloco 17: Context API e React Hooks
 
-- [ ] 17.1: _Context API do React_
-- [ ] 17.2: _React Hooks - useState e useContext_
-- [ ] 17.3: _React Hooks - useEffect e Hooks customizados_
+- [ ] 17.1: Context API do React
+- [ ] 17.2: React Hooks - useState e useContext
+- [ ] 17.3: React Hooks - useEffect e Hooks customizados
 - [ ] 17.4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Bloco 18: Projeto App de Receitas
