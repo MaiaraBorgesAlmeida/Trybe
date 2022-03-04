@@ -37,32 +37,32 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 - [X] 4.4: JavaScript - Objetos e funções
 - [X] 4.5: _[Projeto - Playground Functions](https://github.com/tryber/sd-018-a-project-playground-functions/pull/107)_
 
-#### Bloco 05: JavaScript: DOM, Eventos e Web Storage
+#### Bloco 05: JavaScript: DOM, Eventos e Web Storage :heavy_check_mark:
 
-- [ ] 5.1: JavaScript - DOM e seletores
-- [ ] 5.2: JavaScript - Trabalhando com elementos
-- [ ] 5.3: JavaScript - Eventos
-- [ ] 5.4: JavaScript - Web Storage
+- [X] 5.1: JavaScript - DOM e seletores
+- [X] 5.2: JavaScript - Trabalhando com elementos
+- [X] 5.3: JavaScript - Eventos
+- [X] 5.4: JavaScript - Web Storage
 - [X] 5.5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-018-a-project-pixels-art/pull/96/files)_
 - [X] 5.6: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-018-a-project-todo-list/pull/70)_
 - [X] 5.7: _[Projeto - Adivinhe a Cor](https://github.com/tryber/sd-018-a-project-color-guess/pull/25)_
 - [ ] 5.7: _[Projeto - Meme Generator]()_
 - [ ] 5.7: _[Projeto - Carta Misteriosa]()_
 
-#### Bloco 06: HTML & CSS: Forms, Flexbox e Responsivo
+#### Bloco 06: HTML & CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
 
-- [ ] 6.1: HTML & CSS - Forms
-- [ ] 6.2: Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6.3: CSS Flexbox - Part 1
-- [ ] 6.4: CSS Flexbox - Part 2
-- [ ] 6.5: CSS Responsivo - Mobile First
+- [X] 6.1: HTML & CSS - Forms
+- [X] 6.2: Bibliotecas JavaScript e Frameworks CSS
+- [X] 6.3: CSS Flexbox - Part 1
+- [X] 6.4: CSS Flexbox - Part 2
+- [X] 6.5: CSS Responsivo - Mobile First
 - [X] 6.6: _[Projeto - Trybewarts](https://github.com/tryber/sd-018-a-project-trybewarts/pull/102)_
 
-#### Bloco 07: JavaScript ES6 & Testes Unitários
+#### Bloco 07: JavaScript ES6 & Testes Unitários :heavy_check_mark:
 
 - [X] 7.1: JavaScript ES6 - let, const, arrow functions e template literals
 - [X] 7.2: JavaScript ES6 - Fluxo de exceção e Objetos
-- [ ] 7.3: Primeiros passos em Jest
+- [X] 7.3: Primeiros passos em Jest
 - [X] 7.4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-018-a-project-js-unit-tests/pull/91#)_
 
 #### Bloco 08: Higher Order Functions do JavaScript ES6
@@ -111,7 +111,7 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, além de abo
 
 - [ ] 15.1: _Testando React com a React Testing Library_
 - [ ] 15.2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15.3: _[Projeto - Testes em React](https://github.com/tryber/sd-018-a-project-react-testing-library/pull/49)_
+- [X] 15.3: _[Projeto - Testes em React](https://github.com/tryber/sd-018-a-project-react-testing-library/pull/49)_
 
 #### Bloco 15: Grenciamento de estado com Redux
 
